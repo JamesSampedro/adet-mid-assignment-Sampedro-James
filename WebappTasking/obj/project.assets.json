@@ -8891,9 +8891,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jamez\\source\\repos\\adet-mid-assignment-Sampedro-James\\WebappTasking\\WebappTasking.csproj",
-      "projectName": "WebappTasking",
-      "projectPath": "C:\\Users\\jamez\\source\\repos\\adet-mid-assignment-Sampedro-James\\WebappTasking\\WebappTasking.csproj",
+      "projectUniqueName": "C:\\Users\\jamez\\source\\repos\\adet-mid-assignment-Sampedro-James\\WebappTasking\\Tasking_CRUD.csproj",
+      "projectName": "Tasking_CRUD",
+      "projectPath": "C:\\Users\\jamez\\source\\repos\\adet-mid-assignment-Sampedro-James\\WebappTasking\\Tasking_CRUD.csproj",
       "packagesPath": "C:\\Users\\jamez\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\jamez\\source\\repos\\adet-mid-assignment-Sampedro-James\\WebappTasking\\obj\\",
       "projectStyle": "PackageReference",

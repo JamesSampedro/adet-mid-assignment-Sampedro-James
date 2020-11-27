@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+Gs12y1bgUmBl+XhmChPbEZe7V3ZgOocXCJ8jRGPRmYAt0t3ma5eYhU6Pj04STZvS/bnbNlq7E2om/+C3rgXIQ==",
+  "dgSpecHash": "1a28bQ/PfgyD4ubXKcalo4kfIxWwxQpAeFdmjLeun64vFjXCAlvmQceA2H1a6ZYEWFVZhQzI/wRDLWGc8jbJXA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jamez\\source\\repos\\adet-mid-assignment-Sampedro-James\\WebappTasking\\WebappTasking.csproj",
+  "projectFilePath": "C:\\Users\\jamez\\source\\repos\\adet-mid-assignment-Sampedro-James\\WebappTasking\\Tasking_CRUD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jamez\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\jamez\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\3.1.10\\microsoft.aspnetcore.mvc.razor.extensions.3.1.10.nupkg.sha512",
