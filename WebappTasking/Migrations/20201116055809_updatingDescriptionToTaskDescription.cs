@@ -1,6 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore.Migrations;
 
-namespace WebappTasking.Migrations
+namespace Tasking_CRUD.Migrations
 {
     public partial class updatingDescriptionToTaskDescription : Migration
     {

@@ -1,6 +1,6 @@
 using System;
 
-namespace WebappTasking.Models
+namespace Tasking_CRUD.Models
 {
     public class ErrorViewModel
     {

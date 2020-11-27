@@ -4,9 +4,9 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using WebappTasking.Models;
+using Tasking_CRUD.Models;
 
-namespace WebappTasking.Controllers
+namespace Tasking_CRUD.Controllers
 {
     public class TaskController : Controller
     {

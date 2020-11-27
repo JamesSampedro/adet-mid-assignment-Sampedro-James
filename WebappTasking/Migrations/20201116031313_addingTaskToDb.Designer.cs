@@ -5,9 +5,9 @@ using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
-using WebappTasking.Models;
+using Tasking_CRUD.Models;
 
-namespace WebappTasking.Migrations
+namespace Tasking_CRUD.Migrations
 {
     [DbContext(typeof(TaskDatabaseContext))]
     [Migration("20201116031313_addingTaskToDb")]
@@ -21,7 +21,7 @@ namespace WebappTasking.Migrations
                 .HasAnnotation("Relational:MaxIdentifierLength", 128)
                 .HasAnnotation("SqlServer:ValueGenerationStrategy", SqlServerValueGenerationStrategy.IdentityColumn);
 
-            modelBuilder.Entity("WebappTasking.Models.TaskModel", b =>
+            modelBuilder.Entity("Tasking_CRUD.Models.TaskModel", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()

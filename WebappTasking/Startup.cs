@@ -9,9 +9,9 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
-using WebappTasking.Models;
+using Tasking_CRUD.Models;
 
-namespace WebappTasking
+namespace Tasking_CRUD
 {
     public class Startup
     {

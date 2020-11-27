@@ -14,20 +14,20 @@ namespace AspNetCore
     using Microsoft.AspNetCore.Mvc.ViewFeatures;
 #nullable restore
 #line 1 "C:\Users\jamez\source\repos\adet-mid-assignment-Sampedro-James\WebappTasking\Views\_ViewImports.cshtml"
-using WebappTasking;
+using Tasking_CRUD;
 
 #line default
 #line hidden
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\jamez\source\repos\adet-mid-assignment-Sampedro-James\WebappTasking\Views\_ViewImports.cshtml"
-using WebappTasking.Models;
+using Tasking_CRUD.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a5837acca078fca5878547e48a3faf92115de149", @"/Views/Home/Index.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"fb25f74c18f04c45b43f88d7312e0e2eca906db0", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"f874185c8e0c9fcde779a7b6b51477501c3cc601", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Index : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998
