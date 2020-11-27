@@ -6,18 +6,19 @@
 <form method="post" id="upsertTask">
     @if (Model.Id != 0)
     {
-        <input type="hidden" asp-for="Id" />
-        <input type="hidden" asp-for="DateCreated" />
-        <input type="hidden" asp-for="State" />
-    }
-    <label asp-for="Name"></label>
-    <input name="taskName" />
-    <label asp-for="TaskDescription"></label>
+<input type="hidden" asp-for="Id" />
+                <input type="hidden" asp-for="DateCreated" />
+                                <input type="hidden" asp-for="State" />}
+    <label asp-for="Name"></label><br />
+    <input name="taskName" /><br />
+    <label asp-for="TaskDescription"></label><br />
+    <textarea name="taskDescription" form="upsertTask"></textarea><br />
+
     <button type="submit">@(Model.Id != 0 ? "Edit" : "Create")</button>
     <a asp-action="Index">Back To Tasks</a>
 </form>
 
-<textarea name="taskDescription" form="upsertTask"></textarea>
+
 
 
 
